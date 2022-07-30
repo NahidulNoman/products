@@ -1,0 +1,13 @@
+.text{
+    color:orange
+}
+.background{
+    background-color: #eefcd7;
+}
+.gradient{
+    border: none;
+    background-image: linear-gradient(#b9bb3d, #e78529);
+}
+.span{
+    color: orange;
+}
